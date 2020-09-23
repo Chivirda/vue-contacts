@@ -5,6 +5,10 @@
   font-family: sans-serif;
 }
 
+body {
+  background-color: #fafafa;
+}
+
 .header {
   display: flex;
   align-items: center;
@@ -17,4 +21,12 @@
 .main-heading {
   text-transform: uppercase;
   font-weight: 300;
+}
+
+.contact-card {
+  height: 60px;
+  width: 70%;
+  margin: 20px auto;
+  background-color: #eeeeee;
+  border-radius: 10px;
 }
