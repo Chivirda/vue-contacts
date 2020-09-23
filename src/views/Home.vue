@@ -1,5 +1,15 @@
 <template>
-  <ContactCard />
+  <div class="contact-list">
+    <ContactCard />
+    <ContactCard />
+    <ContactCard />
+    <ContactCard />
+    <ContactCard />
+    <ContactCard />
+    <ContactCard />
+    <ContactCard />
+    <ContactCard />
+  </div>
 </template>
 
 <script>
